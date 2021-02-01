@@ -1,2 +1,2 @@
 # landing-page
-this is just a landing page using htm lcss only
+this is just a landing page using html css only
